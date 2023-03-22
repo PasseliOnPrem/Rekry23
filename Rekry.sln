@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rekry", "rekry\rekry.csproj", "{464C6A5D-B0D5-4051-AB95-07DEEAC9A45C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "tests\Tests\Tests.csproj", "{310E82E4-E746-47E9-8A1F-670A71A6A833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464C6A5D-B0D5-4051-AB95-07DEEAC9A45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464C6A5D-B0D5-4051-AB95-07DEEAC9A45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464C6A5D-B0D5-4051-AB95-07DEEAC9A45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464C6A5D-B0D5-4051-AB95-07DEEAC9A45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310E82E4-E746-47E9-8A1F-670A71A6A833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310E82E4-E746-47E9-8A1F-670A71A6A833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310E82E4-E746-47E9-8A1F-670A71A6A833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310E82E4-E746-47E9-8A1F-670A71A6A833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

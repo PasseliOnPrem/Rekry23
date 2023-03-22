@@ -1,0 +1,1 @@
+export * as weatherService from '@/services/weather.service'
